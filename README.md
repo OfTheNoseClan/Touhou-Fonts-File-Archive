@@ -1,7 +1,7 @@
 # Touhou Fonts File Archive
 A file archive for an ongoing project cataloguing all fonts used in CD jewel case sleeves across the _Touhou Project_ franchise. 
 
-Included products will be:
+The included products will be:
 
 - **Mainline series games** (1st–18th as of writing)
 - **Danmaku spinoff games** (9.5th–16.5th as of writing)
