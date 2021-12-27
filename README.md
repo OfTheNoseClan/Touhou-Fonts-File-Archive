@@ -1,5 +1,5 @@
 # Touhou Fonts File Archive
-A file archive for an ongoing project cataloguing all fonts used in CD jewel case sleeves across the _Touhou Project_ franchise. 
+A file archive for an ongoing project cataloguing every font used in CD jewel case sleeves across the _Touhou Project_ franchise. 
 
 The included products will be:
 
