@@ -10,6 +10,6 @@ The included products will be:
 - **Remastered soundtrack albums for PC–98-platform mainline games _"Akyu's Untouched Score"_** (vols. 1–5)
 - **Soundtrack albums for 黄昏フロンティア-developed spinoff games** (7.5th–17.5th as of writing)
 
-Anything outside of this list, such as spinoff literature, bonus enclosure CDs, related series like the _西方Project_, _トルテルマジック_, etc. are not planned to be included.
+Anything outside of this list—such as spinoff literature, bonus enclosure CDs, related series like the _西方Project_, _トルテルマジック_, etc.—is not planned to be included.
 
 This project is a work in progress; as such, files in this repository are subject to change often.
