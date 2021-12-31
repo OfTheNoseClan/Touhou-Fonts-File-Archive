@@ -11,3 +11,5 @@ The included products will be:
 - **Soundtrack albums for Tasogare Frontier spinoff games** (7.5th–17.5th as of writing)
 
 Anything outside of this list, such as spinoff literature, bonus enclosure CDs, related series like the _Seihou Project_, _Torte le Magic_, etc. are not planned to be included.
+
+This project is a work in progress; as such, files in this repository are subject to change often.
