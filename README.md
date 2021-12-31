@@ -13,3 +13,5 @@ The included products will be:
 Anything outside of this list—such as spinoff literature, bonus enclosure CDs, related series like the _西方Project_, _トルテルマジック_, etc.—is not planned to be included.
 
 This project is a work in progress; as such, files in this repository are subject to change often.
+
+For legal reasons, the fonts themselves will not be included in this archive.
