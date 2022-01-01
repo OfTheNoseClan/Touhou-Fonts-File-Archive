@@ -14,4 +14,4 @@ Anything outside of this list—such as spinoff literature, bonus enclosure CDs,
 
 This project is a work in progress; as such, files in this repository are subject to change often.
 
-For legal reasons, the fonts themselves will not be included in this archive.
+For legal reasons, the fonts themselves are not being included in this archive.
