@@ -17,7 +17,7 @@ Faux-bold has been applied.
   - Translation:  
 “December 1997: First edition, third printing”
   - Font name:  
-ＤＦ行書体W7  
-(DFGyoSho-W7)
+ＤＦ行書体W5  
+(DFGyoSho-W5)
   - Foundry:  
 DynaFont
