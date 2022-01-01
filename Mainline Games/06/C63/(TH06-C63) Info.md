@@ -10,7 +10,7 @@ Monotype
 02\.  
 **２１世紀の２０世紀延長型 弾幕シューティング**
   - Translation:  
-*A 21st century evolution of a 20th century danmaku shooter*
+*21st century evolution of a 20th century danmaku shooter*
   - Font name:  
 ＤＦPOPコンW12  
 (DFPOPCorn-W12)
