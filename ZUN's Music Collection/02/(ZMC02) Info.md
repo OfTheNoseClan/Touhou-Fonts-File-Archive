@@ -24,7 +24,7 @@ Faux-bold has been applied.
 
 03\.  
 **Ghostly Field Club.**  
-**ZUN's Music Collection Vol.2**
+**ZUN’s Music Collection Vol.2**
   - Font name:  
 Marsett Regular
   - Foundry:  
