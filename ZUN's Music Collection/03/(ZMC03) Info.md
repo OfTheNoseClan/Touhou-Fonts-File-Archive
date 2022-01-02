@@ -31,8 +31,11 @@ Bay Animation
 04\.  
 **■ 上海アリス幻樂団**
   - Translation:  
-Shanghai Alice Fantasy Band
-  - ＤＦ唐風隷書体W7  
+*Shanghai Alice Fantasy Band*
+  - Font name:  
+ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
   - Foundry:  
 DynaFont
+  - Other notes:  
+Stretched vertically.
