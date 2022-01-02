@@ -12,6 +12,8 @@ DynaFont
 
 02\.  
 **Rendaino yakou**
+  - Translation:  
+*Night Trip to Rendaino*
   - Font name:  
 ＤＦ隷書体  
 (DFLeiSho-SB)
