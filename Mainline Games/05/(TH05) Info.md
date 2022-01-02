@@ -3,8 +3,8 @@
   - Translation:  
 *Eastern Bizarre Romantic Tale*
   - Font name:  
-ＤＦ行書体W5  
-(DFGyoSho-W5)
+ＤＦ行書体  
+(DFGyoSho-Lt)
   - Foundry:  
 DynaFont
   - Other notes:  
