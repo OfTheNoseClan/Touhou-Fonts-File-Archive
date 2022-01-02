@@ -3,8 +3,8 @@
   - Translation:  
 *Eastern Fantasy Land*
   - Font name:  
-ＤＦ行書体W5  
-(DFGyoSho-W5)
+ＤＦ行書体  
+(DFGyoSho-Lt)
   - Foundry:  
 DynaFont
   - Other notes:  
@@ -17,8 +17,8 @@ Faux-bold has been applied.
   - Translation:  
 *August 1998: First edition, first printing*
   - Font name:  
-ＤＦ行書体W5  
-(DFGyoSho-W5)
+ＤＦ行書体  
+(DFGyoSho-Lt)
   - Foundry:  
 DynaFont
 
