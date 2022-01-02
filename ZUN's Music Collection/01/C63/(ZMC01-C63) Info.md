@@ -20,7 +20,7 @@ Bay Animation
 ---
 
 03\.  
-**ZUN's Music Collection vol.1**
+**ZUN’s Music Collection vol.1**
   - Font name:  
 Gantury Regular ttnorm
   - Foundry:  
