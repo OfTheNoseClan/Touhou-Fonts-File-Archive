@@ -14,7 +14,7 @@ DynaFont
 **Magical Astronomy**  
 **ZUN’s Music Collection vol.5**
   - Font name:  
-Barret Wide Normal
+Barrett Wide Normal
   - Foundry:  
 Bay Animation
 
