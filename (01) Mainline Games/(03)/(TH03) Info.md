@@ -1,3 +1,9 @@
+3rd 東方Project  
+**【東方夢時空　～ Phantasmagoria of Dim.Dream】**
+
+---  
+---
+
 01\.  
 **東方夢時空**
   - Translation:  
