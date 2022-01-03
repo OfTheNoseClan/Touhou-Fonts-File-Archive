@@ -1,3 +1,10 @@
+6th 東方Project  
+**【東方紅魔郷　～ the Embodiment of Scarlet Devil.】**  
+（C63 Printing）
+
+---  
+---
+
 01\.  
 **Windows 98/ME/2000/XP DirectX8**
   - Font name:  
