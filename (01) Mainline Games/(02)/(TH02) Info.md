@@ -1,3 +1,9 @@
+2nd 東方Project  
+**【東方封魔録　～ the Story of Eastern Wonderland】**
+
+---  
+---
+
 01\.  
 **東方封魔録**
   - Translation:  
