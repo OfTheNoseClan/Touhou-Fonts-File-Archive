@@ -1,3 +1,9 @@
+ZUN’s Music Collection vol.5  
+**【大空魔術　～ Magical Astronomy】**
+
+---  
+---
+
 01\.  
 **大空魔術**
   - Translation:  
