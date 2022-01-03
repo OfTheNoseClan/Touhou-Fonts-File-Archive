@@ -1,3 +1,9 @@
+ZUN’s Music Collection vol.3  
+**【夢違科学世紀　～ Changeability of Strange Dream】**  
+
+---  
+---
+
 01\.  
 **ZUN’s Music Collection vol.3**
   - Font name:  
@@ -29,7 +35,7 @@ Bay Animation
 ---
 
 04\.  
-**■ 上海アリス幻樂団**
+**上海■アリス幻樂団**
   - Translation:  
 *Shanghai Alice Fantasy Band*
   - Font name:  
