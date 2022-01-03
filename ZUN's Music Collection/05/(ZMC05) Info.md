@@ -38,7 +38,7 @@ Bay Animation
 ---
 
 04\.  
-**■ 上海アリス幻樂団**
+**上海■アリス幻樂団**
   - Translation:  
 *Shanghai Alice Fantasy Band*
   - Font name:  
