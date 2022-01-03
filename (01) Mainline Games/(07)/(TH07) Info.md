@@ -1,3 +1,9 @@
+7th 東方Project  
+**【東方妖々夢　～ Perfect Cherry Blossom.】**
+
+---  
+---
+
 01\.  
 **(c)2003 上海アリス幻樂団**
   - Translation:  
