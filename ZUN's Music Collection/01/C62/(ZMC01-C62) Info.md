@@ -1,3 +1,9 @@
+ZUN's Music Collection vol.1  
+**『蓬莱人形　～ Dolls in Pseudo Paradise』**  
+（C62 Printing）
+
+---
+
 01\.  
 **蓬莱人形**
   - Translation:  
@@ -27,3 +33,5 @@ Bay Animation
 Manuscripter Normal
   - Foundry:  
 Bay Animation
+
+---
