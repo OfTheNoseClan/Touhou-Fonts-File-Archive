@@ -1,6 +1,7 @@
-ZUN's Music Collection vol.2  
+ZUN’s Music Collection vol.2  
 **【蓮台野夜行　～ Ghostly Field Club】**
 
+---  
 ---
 
 01\.  
@@ -36,5 +37,3 @@ Faux-bold has been applied.
 Marsett Regular
   - Foundry:  
 Bay Animation
-
----
