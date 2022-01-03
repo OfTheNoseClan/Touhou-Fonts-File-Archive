@@ -1,3 +1,10 @@
+6th 東方Project  
+**【東方紅魔郷　～ the Embodiment of Scarlet Devil.】**  
+（C62 Printing）
+
+---  
+---
+
 01\.  
 **２１世紀の２０世紀延長型 弾幕シューティング**
   - Translation:  
