@@ -1,4 +1,4 @@
-ZUN's Music Collection vol.1  
+ZUN’s Music Collection vol.1  
 **【蓬莱人形　～ Dolls in Pseudo Paradise】**  
 （C62 Printing）
 
