@@ -1,3 +1,9 @@
+1st 東方Project  
+**【東方靈異伝　～ The Highly Responsive to Prayers】**
+
+---  
+---
+
 01\.  
 **東方靈異伝**
   - Translation:  
