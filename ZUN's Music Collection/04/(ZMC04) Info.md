@@ -1,5 +1,11 @@
+ZUN’s Music Collection vol.4  
+**【卯酉東海道　～ Retrospective 53 minutes】**  
+
+---  
+---
+
 01\.  
-**■ 上海アリス幻樂団**
+**上海■アリス幻樂団**
   - Translation:  
 *Shanghai Alice Fantasy Band*
   - Font name:  
