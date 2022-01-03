@@ -1,5 +1,5 @@
 ZUN’s Music Collection vol.3  
-**【夢違科学世紀　～ Changeability of Strange Dream】**  
+**【夢違科学世紀　～ Changeability of Strange Dream】**
 
 ---  
 ---
