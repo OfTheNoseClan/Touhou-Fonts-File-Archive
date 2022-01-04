@@ -33,7 +33,7 @@ DynaFont
 03\.  
 **※本ソフトウエアはフリーソフトウエアではありません　二次配布・コピー・ネットワークヘの転載などの為を禁じます**
   - Translation:  
-*※This software is not free software. Redistribution, copying, or network reproduction is prohibited.*
+*※This is not free software. Redistribution, copying, or network reproduction is prohibited.*
   - Font name:  
 ＭＳ 明朝  
 (MS Mincho)
