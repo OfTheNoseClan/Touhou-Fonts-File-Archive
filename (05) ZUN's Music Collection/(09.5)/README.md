@@ -33,9 +33,9 @@ Bay Animation
 **２． 幻想のホワイトトラベラー　（東方天空璋より）**  
 **３． あの賑やかな市場は今どこに　～ Immemorial Marketeers　（東方虹龍洞より）**
   - Translation:  
-*1\. The Wolves of Nanatsuishi Dash to Seize the Clouds  (Tabayama Village PR song)*  
-*2\. Illusionary White Traveler  (From Touhou Tenkuushou)*  
-*3\. Where Is That Bustling Marketplace Now　～ Immemorial Marketeers  (From Touhou Kouryuudou)*
+*1\. The Wolves of Nanatsuishi Dash to Seize the Clouds (Tabayama Village PR song)*  
+*2\. Illusionary White Traveler (From Touhou Tenkuushou)*  
+*3\. Where Is That Bustling Marketplace Now　～ Immemorial Marketeers (From Touhou Kouryuudou)*
   - Font name:  
 FOT-ロダンひまわり Pro DB  
 (FOT-RodinHimawari Pro DB)
