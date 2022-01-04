@@ -28,7 +28,7 @@ Bay Animation
 ---
 
 03\.  
-**ZUN’ s Music Collection vol.**
+**ZUN’s Music Collection vol.**
   - Font name:  
 Barrett Wide Normal
   - Foundry:  
