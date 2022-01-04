@@ -5,7 +5,7 @@ ZUN’s Music Collection vol.8
 ---
 
 01\.  
-**ZUN’ s Music Collection vol.8**
+**ZUN’s Music Collection vol.8**
   - Font name:  
 Carmine Normal
   - Foundry:  
