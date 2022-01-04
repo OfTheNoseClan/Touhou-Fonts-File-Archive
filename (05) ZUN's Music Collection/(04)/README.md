@@ -45,7 +45,7 @@ DynaFont
 *East-to-West Toukaidou*
   - Font name:  
 ＤＦ太楷書体  
-(DFTFLeiSho-W7)
+(DFKaiSho-Bd)
   - Foundry:  
 DynaFont
 
