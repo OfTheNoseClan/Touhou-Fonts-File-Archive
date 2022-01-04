@@ -5,7 +5,7 @@ ZUN’s Music Collection vol.6
 ---
 
 01\.  
-**ZUN’ s Music Collection vol.6**
+**ZUN’s Music Collection vol.6**
   - Font name:  
 Barrett Wide Normal
   - Foundry:  
