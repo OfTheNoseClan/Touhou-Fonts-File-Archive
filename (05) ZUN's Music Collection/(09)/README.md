@@ -35,7 +35,7 @@ Bay Animation
 ---
 
 04\.  
-**ZUN’ s Music Collection vol.9**
+**ZUN’s Music Collection vol.9**
   - Font name:  
 Carmine Normal
   - Foundry:  
