@@ -65,7 +65,7 @@ Stretched vertically.
 06\.  
 **其の弐 東方怪綺談 ～ Mystic Square**
   - Translation:  
-*Part Two: Touhou Kaikidan*
+*Part Two: Eastern Bizarre Romantic Tale*
   - Font name:  
 ＤＦ雅藝体W6  
 (DFGaGei-W6)
