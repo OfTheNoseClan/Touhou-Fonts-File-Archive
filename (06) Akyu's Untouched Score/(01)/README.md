@@ -65,7 +65,7 @@ Stretched vertically.
 06\.  
 **其の壱 東方幻想郷 ～**
   - Translation:  
-*Part One: Touhou Gensoukyou*
+*Part One: Eastern Fantasy Land*
   - Font name:  
 ＤＦ中太楷書体  
 (DFKaiSho-SB)
