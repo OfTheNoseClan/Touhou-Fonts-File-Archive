@@ -65,7 +65,7 @@ Stretched vertically.
 06\.  
 **其の参 東方封魔録 ～ the Story of Eastern Wonderland**
   - Translation:  
-*Part Three: Touhou Fuumaroku*
+*Part Three: Eastern Sealed Demon Record*
   - Font name:  
 ＤＦ宗楷書W7  
 (DFSoKaiSho-W7)
