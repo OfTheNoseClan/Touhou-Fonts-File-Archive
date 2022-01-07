@@ -67,7 +67,7 @@ Stretched vertically.
   - Translation:  
 *Part Four: Eastern Space-Time Dream*
   - Font name:  
-ＤＦ魏碑体W7  
-(DFSoKaiSho-W7)
+ＤＦＰ魏碑体W7  
+(DFPSoKaiSho-W7)
   - Foundry:  
 DynaFont
