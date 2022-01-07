@@ -5,18 +5,6 @@
 ---
 
 01\.  
-**東方文花帖**
-  - Translation:  
-*Eastern Word Flower Album*
-  - Font name:  
-HG明朝E  
-(HGMinchoE)
-  - Foundry:  
-RICOH
-
----
-
-02\.  
 **ダブルスポイラー**
   - Translation:  
 *Double Spoiler*
@@ -25,6 +13,18 @@ RICOH
 (DFLeiGaSo-W7)
   - Foundry:  
 DynaFont
+
+---
+
+02\.  
+**東方文花帖**
+  - Translation:  
+*Eastern Word Flower Album*
+  - Font name:  
+HG明朝E  
+(HGMinchoE)
+  - Foundry:  
+RICOH
 
 ---
 
@@ -57,5 +57,5 @@ Monotype
 (DFTFLeiSho-W7)
   - Foundry:  
 DynaFont
-  - Other notes:
+  - Other notes:  
 Stretched horizontally.
