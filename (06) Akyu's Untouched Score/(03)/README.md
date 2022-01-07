@@ -67,7 +67,7 @@ Stretched vertically.
   - Translation:  
 *Part Three: Eastern Sealed Demon Record*
   - Font name:  
-ＤＦ宗楷書W7  
-(DFSoKaiSho-W7)
+ＤＦＰ宗楷書W7  
+(DFPSoKaiSho-W7)
   - Foundry:  
 DynaFont
