@@ -67,7 +67,7 @@ Stretched vertically.
   - Translation:  
 *Part Five: Eastern Wondrous Tale*
   - Font name:  
-ＤＦ魏碑体W7  
-(DFSoKaiSho-W7)
+ＤＦＰ魏碑体W7  
+(DFPSoKaiSho-W7)
   - Foundry:  
 DynaFont
