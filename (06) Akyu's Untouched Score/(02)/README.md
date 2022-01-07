@@ -67,7 +67,7 @@ Stretched vertically.
   - Translation:  
 *Part Two: Eastern Bizarre Romantic Tale*
   - Font name:  
-ＤＦ雅藝体W6  
-(DFGaGei-W6)
+ＤＦＰ雅藝体W6  
+(DFPGaGei-W6)
   - Foundry:  
 DynaFont
