@@ -7,7 +7,7 @@
 01\.  
 **東方封魔録**
   - Translation:  
-*Eastern Sealed Demon Record*
+*Eastern Sealed Demon Chronicle*
   - Font name:  
 ＤＦ行書体  
 (DFGyoSho-Lt)
