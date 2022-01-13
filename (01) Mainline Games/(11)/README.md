@@ -31,7 +31,7 @@ DynaFont
 ---
 
 03\.  
-**Subterranean Animism**
+**SUBTERRANEAN ANIMISM**
   - Font name:  
 Antique2 Normal
   - Foundry:  
