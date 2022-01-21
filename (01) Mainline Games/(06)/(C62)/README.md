@@ -49,7 +49,7 @@ ImageLine
 ---
 
 05\.  
-**6th Fire Curtain Shooting Game by Shrine Maiden.  by ZUN**
+**6th Fire Curtain Shooting Game by Shrine Maiden. by ZUN**
   - Font name:  
 Cataneo BT Regular
   - Foundry:  
