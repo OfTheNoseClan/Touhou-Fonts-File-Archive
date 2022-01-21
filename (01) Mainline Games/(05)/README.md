@@ -19,9 +19,11 @@ Faux-bold has been applied.
 ---
 
 02\.  
-**※本ソフトウエアはフリーソフトウエアではありません　いわゆる海賊行為・二次配布・コピー・ネットワークヘの転載などの行為を禁じます**
+**※本ソフトウエアはフリーソフトウエアではありません**  
+**いわゆる海賊行為・二次配布・コピー・ネットワークヘの転載などの行為を禁じます**
   - Translation:  
-*※This is not free software. Any act of piracy—redistribution, copying, network reproduction, etc.—is prohibited.*
+*※This is not free software.*  
+*Any act of piracy—redistribution, copying, network reproduction, etc.—is prohibited.*
   - Font name:  
 ＭＳ 明朝  
 (MS Mincho)
