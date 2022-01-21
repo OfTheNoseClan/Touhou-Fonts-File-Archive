@@ -45,8 +45,6 @@ DynaFont
 (DFKinBun-W3)
   - Foundry:  
 DynaFont
-  - Other notes:  
-Likely used due to Tiranti Solid Std lacking a proper glyph for the wave dash character.
 
 ---
 
