@@ -5,22 +5,32 @@
 ---
 
 01\.  
-**東方幻想郷**  
-**平成十年八月　第一版 第一刷**
+**東方幻想郷**
   - Translation:  
-*Eastern Fantasy Land*  
-*August 1998: First edition, first printing*
+*Eastern Fantasy Land*
   - Font name:  
 ＤＦ行書体  
 (DFGyoSho-Lt)
   - Foundry:  
 DynaFont
   - Other notes:  
-Faux-bold has been applied to “東方幻想郷”.
+Faux-bold has been applied.
 
 ---
 
 02\.  
+**平成十年八月　第一版 第一刷**
+  - Translation:  
+*August 1998: First edition, first printing*
+  - Font name:  
+ＤＦ行書体  
+(DFGyoSho-Lt)
+  - Foundry:  
+DynaFont
+
+---
+
+03\.  
 **※本ソフトウエアはフリーソフトウエアではありません**  
 **いわゆる海賊行為・二次配布・コピー・ネットワークヘの転載などの行為を禁じます**
   - Translation:  
