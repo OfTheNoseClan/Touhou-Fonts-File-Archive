@@ -36,8 +36,6 @@ DynaFont
 (DFKinBun-W3)
   - Foundry:  
 DynaFont
-  - Other notes:  
-Likely used due to Graph Regular ttnorm lacking a proper glyph for the wave dash character.
 
 ---
 
