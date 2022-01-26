@@ -9,8 +9,8 @@
   - Translation:  
 *Shanghai Alice Fantasy Band*
   - Font name:  
-ＤＦ麗雅宋W9  
-(DFLeiGaSo-W9)
+ＤＦＧ麗雅宋W9  
+(DFGLeiGaSo-W9)
   - Foundry:  
 DynaFont
 
