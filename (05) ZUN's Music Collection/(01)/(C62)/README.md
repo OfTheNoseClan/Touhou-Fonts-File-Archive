@@ -23,6 +23,8 @@ DynaFont
 Calli 109 Normal
   - Foundry:  
 Bay Animation
+  - Other notes:  
+A “flag” warp effect has been applied.
 
 ---
 
