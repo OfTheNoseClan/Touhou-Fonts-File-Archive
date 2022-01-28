@@ -1,5 +1,5 @@
 13.5th 東方Project soundtrack album  
-**【暗黒能楽集・心綺楼　東方心綺楼 Original Sound Track】**
+**【暗黒能楽集・心綺楼　東方心綺楼 ORIGINAL SOUND TRACK】**
 
 ---  
 ---
