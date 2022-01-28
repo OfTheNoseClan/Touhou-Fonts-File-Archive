@@ -1,5 +1,5 @@
 10.5th 東方Project soundtrack album  
-**【全人類ノ天楽録　東方緋想天 Original Sound Track】**
+**【全人類ノ天楽録　東方緋想天 ORIGINAL SOUND TRACK】**
 
 ---  
 ---
