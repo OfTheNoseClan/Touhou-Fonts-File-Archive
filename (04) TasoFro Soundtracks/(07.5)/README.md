@@ -29,3 +29,5 @@ Faux-bold has been applied.
 LHF Charlotte
   - Foundry:  
 Letterhead Fonts
+  - Other notes:  
+Faux-bold has been applied.
