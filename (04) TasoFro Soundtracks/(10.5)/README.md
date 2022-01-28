@@ -23,8 +23,8 @@ Stretched vertically.
   - Translation:  
 *Eastern Heaven of Scarlet Perception*
   - Font name:  
-ＤＣ方隷書W3  
-(DCHoLeiSho-W3)
+ＤＣ方隷書 Std W3  
+(DCHoLeiSho Std W3)
   - Foundry:  
 DynaFont
   - Other notes:  
