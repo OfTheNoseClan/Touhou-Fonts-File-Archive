@@ -16,7 +16,7 @@ Bay Animation
 02\.  
 **東方非想天則**
   - Translation:  
-*Eastern Unenlightenment of Natural Law*
+*Eastern Imperception of Natural Law*
   - Font name:  
 A-OTF 光朝 Std Heavy  
 (A-OTF Kocho Std Heavy)
