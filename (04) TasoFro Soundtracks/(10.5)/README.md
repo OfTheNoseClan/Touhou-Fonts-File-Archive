@@ -1,0 +1,63 @@
+10.5th 東方Project soundtrack album  
+**【全人類ノ天楽録　東方緋想天 Original Sound Track】**
+
+---  
+---
+
+01\.  
+**全人類ノ天楽録**
+  - Translation:  
+*Celestial Music Record of All Humankind*
+  - Font name:  
+ＤＦ平成明朝体 Std W9  
+(DFHSMincho Std W9)
+  - Foundry:  
+DynaFont
+  - Other notes:  
+Stretched vertically.
+
+---
+
+02\.  
+**東方緋想天**
+  - Translation:  
+*Eastern Heaven of Scarlet Perception*
+  - Font name:  
+ＤＣ方隷書W3  
+(DCHoLeiSho-W3)
+  - Foundry:  
+DynaFont
+  - Other notes:  
+Stretched vertically.
+
+---
+
+03\.  
+**ORIGINAL SOUND TRACK**
+  - Font name:  
+Chaz Normal
+  - Foundry:  
+Bay Animation
+  - Other notes:  
+Stretched vertically.
+
+---
+
+04\.  
+**Copyright 2008**
+  - Font name:  
+Times New Roman Regular
+  - Foundry:  
+Monotype
+
+---
+
+05\.  
+**黄昏フロンティア 上海アリス幻樂団**
+  - Translation:  
+*Twilight Frontier, Shanghai Alice Fantasy Band*
+  - Font name:  
+HG高橋隷書体  
+(HGTakahashiReishotai)
+  - Foundry:  
+RICOH
