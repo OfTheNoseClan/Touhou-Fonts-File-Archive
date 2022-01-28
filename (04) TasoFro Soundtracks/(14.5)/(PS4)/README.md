@@ -10,7 +10,7 @@
 **東方深秘録初回特典CD**
   - Translation:  
 *A Deeply Mystic Music Collection: Addendum*  
-*Eastern Deep Secret Record First Pressing Special CD*
+*Eastern Record of Deep Secrets First Pressing Special CD*
   - Font name:  
 A-OTF 解ミン 月 Std H  
 (A-OTF Kaimin Tsuki Std H)
