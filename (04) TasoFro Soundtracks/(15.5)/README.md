@@ -1,5 +1,5 @@
 15.5th 東方Project soundtrack album  
-**【完全憑依ディスコグラフィ　東方憑依華 Original Sound Track】**
+**【完全憑依ディスコグラフィ　東方憑依華 ORIGINAL SOUND TRACK】**
 
 ---  
 ---
