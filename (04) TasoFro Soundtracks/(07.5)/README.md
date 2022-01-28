@@ -1,5 +1,5 @@
 7.5th 東方Project soundtrack album  
-**【幻想曲抜萃　東方萃夢想 Original Sound Track】**
+**【幻想曲抜萃　東方萃夢想 ORIGINAL SOUND TRACK】**
 
 ---  
 ---
