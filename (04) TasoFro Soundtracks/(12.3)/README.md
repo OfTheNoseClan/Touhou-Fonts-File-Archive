@@ -1,5 +1,5 @@
 12.3rd 東方Project soundtrack album  
-**【核熱造神ヒソウテンソク　東方非想天則 Original Sound Track】**
+**【核熱造神ヒソウテンソク　東方非想天則 ORIGINAL SOUND TRACK】**
 
 ---  
 ---
