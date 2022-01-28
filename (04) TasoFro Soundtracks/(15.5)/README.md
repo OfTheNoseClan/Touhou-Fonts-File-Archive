@@ -23,7 +23,7 @@ Text was heavily edited.
 02\.  
 **東方憑依華 ORIGINAL SOUND TRACK**
   - Translation:  
-*Eastern Bloom of Spiritual Possession*
+*Eastern Blooms of Spiritual Possession*
   - Font name:  
 A-OTF UD新ゴ Pro H  
 (A-OTF UD Shin Go Pro H)
