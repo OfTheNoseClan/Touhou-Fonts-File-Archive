@@ -7,7 +7,7 @@
 01\.  
 **12.3th Touhou Project**
   - Font name:  
-Exotica Bold
+Pare Bold
   - Foundry:  
 Bay Animation
 
@@ -22,6 +22,8 @@ A-OTF 光朝 Std Heavy
 (A-OTF Kocho Std Heavy)
   - Foundry:  
 Morisawa
+  - Other notes:  
+Text was heavily edited.
 
 ---
 
@@ -65,7 +67,7 @@ Faux-oblique has been applied.
 06\.  
 **東方非想天則 ORIGINAL SOUND TRACK**
   - Translation:  
-*Eastern Unenlightenment of Natural Law*
+*Eastern Imperception of Natural Law*
   - Font name:  
 A-OTF ゴシックMB101 Pro H  
 (A-OTF Gothic MB101 Pro H)
