@@ -71,6 +71,8 @@ Faux-oblique has been applied.
   - Font name:  
 A-OTF ゴシックMB101 Pro H  
 (A-OTF Gothic MB101 Pro H)
+  - Foundry:  
+Morisawa
   - Other notes:  
 Faux-oblique has been applied.
 
@@ -83,3 +85,5 @@ Faux-oblique has been applied.
   - Font name:  
 ＭＳ ゴシック  
 (MS Gothic)
+  - Foundry:  
+Microsoft
