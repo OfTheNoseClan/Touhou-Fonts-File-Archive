@@ -30,7 +30,7 @@ A “rise” warp effect was applied.
 ---
 
 03\.  
-**Copyright2015　黄昏フロンティア＆上海アリス幻樂団**
+**Copyright2015 黄昏フロンティア＆上海アリス幻樂団**
   - Translation:  
 *Twilight Frontier & Shanghai Alice Fantasy Band*
   - Font name:  
