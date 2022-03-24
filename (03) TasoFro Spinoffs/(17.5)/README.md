@@ -5,7 +5,7 @@
 ---
 
 01\.  
-**17.5th Touhou Project**  
+**１７.５th Touhou Project**  
 **～ 水没した沈愁地獄**  
 **Copyright2021 黄昏フロンティア＆上海アリス幻樂団**
   - Translation:  
