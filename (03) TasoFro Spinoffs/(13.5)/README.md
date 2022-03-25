@@ -31,7 +31,7 @@ Bay Animation
 FOT-マティス Pro DB  
 (FOT-Matisse Pro DB)
   - Foundry:  
-Morisawa
+Fontworks
 
 ---
 
