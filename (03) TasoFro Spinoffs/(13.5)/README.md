@@ -40,7 +40,7 @@ Morisawa
   - Translation:  
 *Twilight Frontier/Shanghai Alice Fantasy Band*
   - Font name:  
-A-OTF 黎ミン Pro EB  
-(A-OTF Reimin Pro EB)
+A-OTF リュウミン Pro M-KL  
+(A-OTF Ryumin Pro M-KL)
   - Foundry:  
 Morisawa
