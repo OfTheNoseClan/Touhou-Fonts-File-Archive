@@ -36,17 +36,6 @@ Bay Animation
 ---
 
 04\.  
-**for Windows2000/XP**  
-**DirectX 9.0c**  
-**Copyright 2008**
-  - Font name:  
-Bernhart Bold
-  - Foundry:  
-Bay Animation
-
----
-
-05\.  
 **弾幕アクションゲーム**
   - Translation:  
 *Danmaku action game*
@@ -55,6 +44,17 @@ Bay Animation
 (DFKakuPop Std W5)
   - Foundry:  
 DynaFont
+
+---
+
+05\.  
+**for Windows2000/XP**  
+**DirectX 9.0c**  
+**Copyright 2008**
+  - Font name:  
+Bernhart Bold
+  - Foundry:  
+Bay Animation
 
 ---
 
