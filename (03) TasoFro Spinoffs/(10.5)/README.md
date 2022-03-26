@@ -14,7 +14,8 @@ Bay Animation
 ---
 
 02\.  
-**東方緋想天**
+**東方緋想天**  
+**/**
   - Translation:  
 *Eastern Heaven of Scarlet Perception*
   - Font name:  
@@ -58,9 +59,11 @@ DynaFont
 ---
 
 06\.  
-**黄昏フロンティア / 上海アリス幻樂団**
+**黄昏フロンティア**  
+**上海アリス幻樂団**
   - Translation:  
-*Twilight Frontier / Shanghai Alice Fantasy Band*
+*Twilight Frontier*  
+*Shanghai Alice Fantasy Band*
   - Font name:  
 ＤＦ顔真卿体 Std W7  
 (DFGanShinKei Std W7)
