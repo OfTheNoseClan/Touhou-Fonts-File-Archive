@@ -26,10 +26,7 @@ DynaFont
 ---
 
 03\.  
-**Scarlet Weather Rhapsody**  
-**for Windows2000/XP**  
-**DirectX 9.0c**  
-**Copyright 2008**
+**Scarlet Weather Rhapsody**
   - Font name:  
 Bernhart Normal
   - Foundry:  
@@ -38,6 +35,17 @@ Bay Animation
 ---
 
 04\.  
+**for Windows2000/XP**  
+**DirectX 9.0c**  
+**Copyright 2008**
+  - Font name:  
+Bernhart Bold
+  - Foundry:  
+Bay Animation
+
+---
+
+05\.  
 **弾幕アクションゲーム**
   - Translation:  
 *Danmaku action game*
@@ -49,7 +57,7 @@ DynaFont
 
 ---
 
-05\.  
+06\.  
 **黄昏フロンティア / 上海アリス幻樂団**
   - Translation:  
 *Twilight Frontier / Shanghai Alice Fantasy Band*
