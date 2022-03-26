@@ -46,7 +46,7 @@ Bay Animation
   - Translation:  
 *Shanghai Alice Fantasy Band*
   - Font name:  
-ＤＦPOPミックス Std W3  
-(DFPOPMix Std W3)
+ＤＦPOPミックス Std W4  
+(DFPOPMix Std W4)
   - Foundry:  
 DynaFont
