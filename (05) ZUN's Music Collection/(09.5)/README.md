@@ -29,9 +29,9 @@ Bay Animation
 ---
 
 03\.  
-**１． 七ツ石の狼、雲を取りに駆ける　（丹波山村 PR用イメージ曲）**  
-**２． 幻想のホワイトトラベラー　（東方天空璋より）**  
-**３． あの賑やかな市場は今どこに　～ Immemorial Marketeers　（東方虹龍洞より）**
+**１．七ツ石の狼、雲を取りに駆ける　（丹波山村 PR用イメージ曲）**  
+**２．幻想のホワイトトラベラー　（東方天空璋より）**  
+**３．あの賑やかな市場は今どこに　～ Immemorial Marketeers　（東方虹龍洞より）**
   - Translation:  
 *1\. The Wolves of Nanatsuishi Dash to Seize the Clouds (Tabayama Village PR song)*  
 *2\. Illusionary White Traveler (From Touhou Tenkuushou)*  
