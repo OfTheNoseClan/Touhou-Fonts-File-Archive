@@ -7,7 +7,7 @@
 01\.  
 **バレットフィリア達の**  
   - Translation:  
-*The Bulletphiles'*
+*of Bulletphilia*
   - Font name:  
 FOT-筑紫Bオールド明朝 Pr6N R  
 (FOT-TsukuBOldMin Pr6N R)
