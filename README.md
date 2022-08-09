@@ -1,7 +1,7 @@
 # _東方Project_ Fonts File Archive
 A file archive for an ongoing project cataloguing every font used in CD jewel case sleeves across the _東方Project_ franchise. 
 
-The included products will be:
+The list of titles catalogued in this project are:
 
 - **Mainline series games** (1st–18th as of writing)
 - **Danmaku spinoff games** (9.5th–18.5th as of writing)
