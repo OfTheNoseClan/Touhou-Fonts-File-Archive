@@ -35,4 +35,26 @@ Mason Book Normal
   - Copyright:  
 MicroLogic
 
-(WIP)
+---
+
+04\.  
+**18.5th Touhou Project**  
+**Shooting Game for Windows**
+  - Font name:  
+Continuum Light
+  - Copyright:  
+Brøderbund
+
+---
+
+05\.  
+**上海■アリス幻樂団**
+  - Translation:  
+*Shanghai Alice Fantasy Band*
+  - Font name:  
+FOT-万葉古印ラージ Std B  
+(FOT-ManyoKoinLarge Std B)
+  - Copyright:  
+Fontworks
+  - Other notes:  
+Stretched horizontally.
