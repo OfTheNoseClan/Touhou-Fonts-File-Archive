@@ -21,8 +21,8 @@ Fontworks
   - Translation:  
 *Black Market*
   - Font name:  
-FOT-筑紫B見出ミン Std E  
-(FOT-TsukuBMDMin Std E)
+FOT-筑紫A見出ミン Std E  
+(FOT-TsukuAMDMin Std E)
   - Copyright:  
 Fontworks
 
