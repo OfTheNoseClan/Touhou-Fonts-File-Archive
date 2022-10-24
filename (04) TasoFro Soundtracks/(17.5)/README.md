@@ -7,6 +7,6 @@
 01\.  
 **ORIGINAL SOUND TRACK**
   - Font name:  
-？？？
-  - Foundry:  
-？？？
+Unknown
+  - Copyright:  
+Unknown
