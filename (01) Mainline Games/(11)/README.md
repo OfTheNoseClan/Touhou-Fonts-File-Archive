@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
@@ -25,7 +25,7 @@ Stretched vertically.
   - Font name:  
 ＤＦ龍門石碑体W9  
 (DFRyuSeki-W9)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -34,8 +34,12 @@ DynaFont
 **SUBTERRANEAN ANIMISM**
   - Font name:  
 Antique2 Normal
-  - Foundry:  
-Bay Animation
+  - Forger:  
+Broderbund
+  - Forgery of:  
+Dresden
+  - Copyright:  
+Roger White
 
 ---
 
@@ -46,7 +50,7 @@ Bay Animation
   - Font name:  
 ＤＦ華康明朝体W5  
 (DFMinchoP-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -57,5 +61,9 @@ DynaFont
 **Is mysterious geyser subterranean maneuver?**
   - Font name:  
 Balloon Normal
-  - Foundry:  
-Bay Animation
+  - Forger:  
+MicroLogic
+  - Forgery of:  
+VAG Rounded Light
+  - Copyright:  
+Linotype
