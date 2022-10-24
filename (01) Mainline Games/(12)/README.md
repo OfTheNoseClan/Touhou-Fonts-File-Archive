@@ -11,7 +11,7 @@
   - Font name:  
 HG明朝E  
 (HGMinchoE)
-  - Foundry:  
+  - Copyright:  
 RICOH
 
 ---
@@ -20,8 +20,12 @@ RICOH
 **Undefined Fantastic Object**
   - Font name:  
 Franco Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Friz Quadrata Regular
+  - Copyright:  
+ITC
 
 ---
 
@@ -32,7 +36,7 @@ Bay Animation
   - Font name:  
 ＤＦＰPOPミックスW3  
 (DFPPOPMix-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -44,7 +48,7 @@ DynaFont
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
