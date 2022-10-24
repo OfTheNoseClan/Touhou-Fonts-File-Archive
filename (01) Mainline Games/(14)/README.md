@@ -11,7 +11,7 @@
   - Font name:  
 FOT-豊隷 Std EB  
 (FOT-Hourei Std EB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Stretched horizontally.
@@ -23,8 +23,12 @@ Stretched horizontally.
 **Shooting Game for Windows 7/8/Vista**
   - Font name:  
 Typist Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC American Typewriter Medium
+  - Copyright:  
+ITC
 
 ---
 
@@ -35,7 +39,7 @@ Bay Animation
   - Font name:  
 FOT-マカロニ Std DB  
 (FOT-Macaroni Std DB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Text written in both this and the following font is overlaid upon itself.
@@ -49,7 +53,7 @@ Text written in both this and the following font is overlaid upon itself.
   - Font name:  
 FOT-ミステリ Std DB  
 (FOT-Mystery Std DB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Text written in both this and the previous font is overlaid upon itself.
@@ -60,5 +64,7 @@ Text written in both this and the previous font is overlaid upon itself.
 **Double Dealing Character**
   - Font name:  
 Di Narrow Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Unknown
