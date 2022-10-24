@@ -8,8 +8,12 @@
 **10.5th Touhou Project**
   - Font name:  
 Balloon Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+VAG Rounded Light
+  - Copyright:  
+Linotype
 
 ---
 
@@ -21,7 +25,7 @@ Bay Animation
   - Font name:  
 ＤＦ龍門石碑体 Std W9  
 (DFRyuSeki Std W9)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -30,8 +34,12 @@ DynaFont
 **Scarlet Weather Rhapsody**
   - Font name:  
 Bernhart Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Bernhard Modern Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -42,7 +50,7 @@ Bay Animation
   - Font name:  
 ＤＦ角POP Std W5  
 (DFKakuPop Std W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -53,8 +61,12 @@ DynaFont
 **Copyright 2008**
   - Font name:  
 Bernhart Bold
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Bernhard Modern Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -67,5 +79,5 @@ Bay Animation
   - Font name:  
 ＤＦ顔真卿体 Std W7  
 (DFGanShinKei Std W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
