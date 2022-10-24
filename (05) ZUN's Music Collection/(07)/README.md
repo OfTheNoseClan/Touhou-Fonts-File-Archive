@@ -11,7 +11,7 @@ ZUN’s Music Collection vol.7
   - Font name:  
 ＤＦ華康明朝体W5  
 (DFMinchoP-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -22,8 +22,10 @@ DynaFont
 **Bamboo shoot**
   - Font name:  
 Chaney Thin Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Unknown
 
 ---
 
@@ -31,8 +33,12 @@ Bay Animation
 **ZUN’s Music Collection vol.**
   - Font name:  
 Barrett Wide Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Baker Signet BT Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -40,8 +46,12 @@ Bay Animation
 **7**
   - Font name:  
 Atilla Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Avant Garde Gothic Book
+  - Copyright:  
+ITC
 
 ---
 
@@ -49,8 +59,12 @@ Bay Animation
 **Neo-traditionalism of Japan.**
   - Font name:  
 Array Wide Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Arrus BT Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -61,7 +75,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
