@@ -13,7 +13,7 @@
   - Font name:  
 ＤＦ郭泰碑 Std W4  
 (DFKakuTaiHi Std W4)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -22,8 +22,12 @@ DynaFont
 **Immaterial and Missing Power.**
   - Font name:  
 Mirage Regular
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Benguiat Book
+  - Copyright:  
+ITC
 
 ---
 
@@ -35,8 +39,12 @@ Bay Animation
 **Copyright 2004**
   - Font name:  
 Exotica Regular
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Peignot Demi
+  - Copyright:  
+Linotype
 
 ---
 
@@ -48,5 +56,5 @@ Bay Animation
   - Font name:  
 ＤＦPOPミックス Std W4  
 (DFPOPMix Std W4)
-  - Foundry:  
+  - Copyright:  
 DynaFont
