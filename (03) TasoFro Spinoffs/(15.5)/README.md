@@ -11,7 +11,7 @@
   - Font name:  
 FOT-マティス Pro B  
 (FOT-Matisse Pro B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Text was heavily edited.
@@ -23,8 +23,12 @@ Text was heavily edited.
 **Antinomy of Common Flowers**
   - Font name:  
 Imperial Bold
-  - Foundry:  
-Bay Animation
+  - Forger:  
+MicroLogic
+  - Forgery of:  
+Baskerville No. 2 Bold
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -35,5 +39,5 @@ Bay Animation
   - Font name:  
 A-OTF 黎ミン Pro H  
 (A-OTF Reimin Pro H)
-  - Foundry:  
+  - Copyright:  
 Morisawa
