@@ -11,7 +11,7 @@
   - Font name:  
 FOT-筑紫Aオールド明朝 Pr6 R  
 (FOT-TsukuAOldMin Pr6 R)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -20,8 +20,12 @@ Fontworks
 **Hopeless Masquerade**
   - Font name:  
 Congo Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Kuenstler 480 Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -30,7 +34,7 @@ Bay Animation
   - Font name:  
 FOT-マティス Pro DB  
 (FOT-Matisse Pro DB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -42,5 +46,5 @@ Fontworks
   - Font name:  
 A-OTF リュウミン Pro M-KL  
 (A-OTF Ryumin Pro M-KL)
-  - Foundry:  
+  - Copyright:  
 Morisawa
