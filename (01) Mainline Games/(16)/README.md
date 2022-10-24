@@ -9,8 +9,12 @@
 **Shooting Game for Windows 7/8/10**
   - Font name:  
 Geo 957 Extended Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Square Slabserif 711 Medium
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -18,8 +22,12 @@ Bay Animation
 **Hidden Star in Four Seasons**
   - Font name:  
 Optical A Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+OCR-A Regular
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -30,7 +38,7 @@ Bay Animation
   - Font name:  
 FOT-あられ Std DB  
 (FOT-Aralet Std DB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -42,7 +50,7 @@ Fontworks
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
