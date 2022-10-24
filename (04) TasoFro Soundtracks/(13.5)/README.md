@@ -15,7 +15,7 @@
   - Font name:  
 A-OTF 黎ミンY20 Pro H  
 (A-OTF Reimin Y20 Pro H)
-  - Foundry:  
+  - Copyright:  
 Morisawa
 
 ---
@@ -27,7 +27,7 @@ Morisawa
   - Font name:  
 A-OTF 黎ミンY20 Pro H  
 (A-OTF Reimin Y20 Pro H)
-  - Foundry:  
+  - Copyright:  
 Morisawa
   - Other notes:  
 Stretched horizontally.
