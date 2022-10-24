@@ -8,8 +8,12 @@ ZUN’s Music Collection vol.8
 **ZUN’s Music Collection vol.8**
   - Font name:  
 Carmine Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Carmina BT Medium
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -20,7 +24,7 @@ Bay Animation
   - Font name:  
 FOT-スキップ Std D  
 (FOT-Skip Std D)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -29,8 +33,12 @@ Fontworks
 **Dr.Latency’s Freak Report**
   - Font name:  
 Carla Bold
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Carolus
+  - Copyright:  
+Roger White
 
 ---
 
@@ -41,7 +49,7 @@ Bay Animation
   - Font name:  
 FOT-万葉古印ラージ Std B  
 (FOT-ManyoKoinLarge Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Stretched horizontally.
