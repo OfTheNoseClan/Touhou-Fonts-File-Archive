@@ -12,7 +12,7 @@
   - Font name:  
 ＤＦPOPコンW12  
 (DFPOPCorn-W12)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -24,7 +24,7 @@ DynaFont
   - Font name:  
 ＤＦクラフト童W3  
 (DFCraftDou-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -34,7 +34,7 @@ DynaFont
   - Font name:  
 ＤＦ金文体W3  
 (DFKinBun-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -43,8 +43,10 @@ DynaFont
 **the Embodiment of Scarlet Devil.**
   - Font name:  
 Graph Regular ttnorm
-  - Foundry:  
+  - Forger:  
 ImageLine
+  - Forgery of:  
+Unknown
 
 ---
 
@@ -52,5 +54,5 @@ ImageLine
 **6th Fire Curtain Shooting Game by Shrine Maiden.&nbsp;&nbsp;by ZUN**
   - Font name:  
 Cataneo BT Regular
-  - Foundry:  
+  - Copyright:  
 Bitstream
