@@ -24,7 +24,9 @@ Stretched vertically.
 *Eastern Flower Reflecting Mound*
   - Font name:  
 Architect 1 Regular
-  - Copyright:  
+  - Forger:  
+Broderbund
+  - Forgery of:  
 Unknown
   - Other notes:  
 Stretched vertically.
