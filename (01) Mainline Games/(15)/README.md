@@ -11,7 +11,7 @@
   - Font name:  
 FOT-キアロ Std B  
 (FOT-Chiaro Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -20,7 +20,7 @@ Fontworks
 **Legacy of Lunatic Kingdom**
   - Font name:  
 FOTAmped Bold
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -30,8 +30,12 @@ Fontworks
 **Shooting Game for Windows 7/Vista/8**
   - Font name:  
 Transit Wide Bold
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Transitional 551 Medium
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -42,7 +46,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
