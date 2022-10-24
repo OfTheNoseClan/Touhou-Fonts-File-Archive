@@ -11,7 +11,7 @@ ZUN’s Music Collection vol.5
   - Font name:  
 ＤＦ優雅宋W3  
 (DFYuGaSo-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -21,8 +21,12 @@ DynaFont
 **ZUN’s Music Collection vol.5**
   - Font name:  
 Barrett Wide Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Baker Signet BT Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -32,8 +36,10 @@ Bay Animation
 **Physicist**
   - Font name:  
 Architect 1 Regular
-  - Foundry:  
-Bay Animation
+  - Forger:  
+Broderbund
+  - Forgery of:  
+Unknown
 
 ---
 
@@ -44,7 +50,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
