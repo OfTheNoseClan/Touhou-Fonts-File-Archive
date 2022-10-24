@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ隷書体  
 (DFLeiSho-SB)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -20,8 +20,8 @@ DynaFont
 **Imperishable Night**
   - Font name:  
 Bowfin Regular
-  - Foundry:  
-Bay Animation
+  - Copyright:  
+Broderbund
 
 ---
 
@@ -32,7 +32,7 @@ Bay Animation
   - Font name:  
 ＤＦ郭泰碑W4  
 (DFKakuTaiHi-W4)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -41,7 +41,7 @@ DynaFont
 **ver 1.00b**
   - Font name:  
 Comic Sans MS
-  - Foundry:  
+  - Copyright:  
 Microsoft
   - Other notes:  
 Yes, it’s here.
@@ -55,8 +55,12 @@ Yes, it’s here.
 **-Imperishable Night-**
   - Font name:  
 Celebrity Plain
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Park Avenue
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -64,7 +68,7 @@ Bay Animation
 **(C)opyright 2004**  
   - Font name:  
 Lucida Console Regular
-  - Foundry:  
+  - Copyright:  
 Monotype
 
 ---
@@ -76,5 +80,5 @@ Monotype
   - Font name:  
 ＤＦＧ麗雅宋W9  
 (DFGLeiGaSo-W9)
-  - Foundry:  
+  - Copyright:  
 DynaFont
