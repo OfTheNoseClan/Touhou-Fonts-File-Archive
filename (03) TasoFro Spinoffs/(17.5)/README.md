@@ -14,5 +14,5 @@
   - Font name:  
 源ノ明朝 Heavy  
 (Source Han Serif Heavy)
-  - Foundry:  
+  - Copyright:  
 Adobe Type
