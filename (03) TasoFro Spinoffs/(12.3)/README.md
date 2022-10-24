@@ -8,8 +8,12 @@
 **12.3th Touhou Project**
   - Font name:  
 Pare Bold
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Peignot Bold
+  - Copyright:  
+Linotype
 
 ---
 
@@ -20,7 +24,7 @@ Bay Animation
   - Font name:  
 A-OTF 光朝 Std Heavy  
 (A-OTF Kocho Std Heavy)
-  - Foundry:  
+  - Copyright:  
 Morisawa
   - Other notes:  
 Text was heavily edited.
@@ -34,7 +38,7 @@ Text was heavily edited.
   - Font name:  
 A-OTF ハルクラフト Std Heavy  
 (A-OTF Harucraft Std Heavy)
-  - Foundry:  
+  - Copyright:  
 Morisawa
 
 ---
@@ -46,7 +50,7 @@ Morisawa
   - Font name:  
 A-OTF タカハンド Std M  
 (A-OTF TakaHand Std M)
-  - Foundry:  
+  - Copyright:  
 Morisawa
 
 ---
@@ -59,5 +63,5 @@ Morisawa
   - Font name:  
 A-OTF 見出ミン Pro MA31  
 (A-OTF Midashi Min Pro MA31)
-  - Foundry:  
+  - Copyright:  
 Morisawa
