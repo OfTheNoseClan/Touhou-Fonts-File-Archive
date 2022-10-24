@@ -11,7 +11,7 @@
   - Font name:  
 FOT-ミステリ Std DB  
 (FOT-Mystery Std DB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Text was heavily edited.
@@ -22,10 +22,12 @@ Text was heavily edited.
 **Urban Legend in Limbo**
   - Font name:  
 Artiste 2 Regular
-  - Foundry:  
-Bay Animation
+  - Forger:  
+Broderbund
+  - Forgery of:  
+Unknown
   - Other notes:  
-A “rise” warp effect was applied.
+Text was heavily edited.
 
 ---
 
@@ -36,5 +38,5 @@ A “rise” warp effect was applied.
   - Font name:  
 ピグモ 00  
 (pigmo-00)
-  - Foundry:  
+  - Copyright:  
 Mojiwaku Kenkyu
