@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ平成明朝体 Std W9  
 (DFHSMincho Std W9)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
@@ -25,7 +25,7 @@ Stretched vertically.
   - Font name:  
 ＤＣ方隷書 Std W3  
 (DCHoLeiSho Std W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
@@ -36,8 +36,12 @@ Stretched vertically.
 **ORIGINAL SOUND TRACK**
   - Font name:  
 Chaz Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Charlemagne Regular
+  - Copyright:  
+Adobe Type
   - Other notes:  
 Stretched vertically.
 
@@ -47,7 +51,7 @@ Stretched vertically.
 **Copyright 2008**
   - Font name:  
 Times New Roman Regular
-  - Foundry:  
+  - Copyright:  
 Monotype
 
 ---
@@ -59,5 +63,5 @@ Monotype
   - Font name:  
 HG高橋隷書体  
 (HGTakahashiReishotai)
-  - Foundry:  
+  - Copyright:  
 RICOH
