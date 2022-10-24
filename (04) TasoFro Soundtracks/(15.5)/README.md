@@ -13,7 +13,7 @@
   - Font name:  
 RoG2サンセリフStd U  
 (Ro GSan Serif Std U)
-  - Foundry:  
+  - Copyright:  
 TypeBank
   - Other notes:  
 Text was heavily edited.
@@ -27,5 +27,5 @@ Text was heavily edited.
   - Font name:  
 A-OTF UD新ゴ Pro H  
 (A-OTF UD Shin Go Pro H)
-  - Foundry:  
+  - Copyright:  
 Morisawa
