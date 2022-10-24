@@ -7,7 +7,7 @@
 01\.  
 **バレットフィリア達の**  
   - Translation:  
-*of Bulletphilia*
+*Bulletphiles'*
   - Font name:  
 FOT-筑紫Bオールド明朝 Pr6N R  
 (FOT-TsukuBOldMin Pr6N R)
@@ -32,8 +32,12 @@ Fontworks
 **100th Black Market**
   - Font name:  
 Mason Book Normal
-  - Copyright:  
+  - Forger:  
 MicroLogic
+  - Forgery of:  
+ITC Lubalin Graph Book
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -42,8 +46,12 @@ MicroLogic
 **Shooting Game for Windows**
   - Font name:  
 Continuum Light
+  - Forger:  
+Broderbund
+  - Forgery of:  
+Sol Pro Light
   - Copyright:  
-Brøderbund
+Canada Type
 
 ---
 
