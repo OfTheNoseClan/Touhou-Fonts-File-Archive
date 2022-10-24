@@ -9,8 +9,12 @@
 **IMPOSSIBLE SPELL CARD**
   - Font name:  
 Time Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+LCD
+  - Copyright:  
+ITC
 
 ---
 
@@ -21,7 +25,7 @@ Bay Animation
   - Font name:  
 FOT-カラット Std UB  
 (FOT-Carat Std UB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -30,8 +34,12 @@ Fontworks
 **Shooting Game for Windows 7/8/Vista**
   - Font name:  
 Typist Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC American Typewriter Medium
+  - Copyright:  
+ITC
 
 ---
 
@@ -42,7 +50,7 @@ Bay Animation
   - Font name:  
 HOT-京紫 Std E  
 (HOT-KyoMurasaki Std E)
-  - Foundry:  
+  - Copyright:  
 Hakusyu Fonts
   - Other notes:  
 Stretched horizontally.
