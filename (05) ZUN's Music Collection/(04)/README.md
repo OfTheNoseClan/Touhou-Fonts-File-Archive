@@ -11,7 +11,7 @@ ZUN’s Music Collection vol.4
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
@@ -22,8 +22,12 @@ Stretched vertically.
 **ZUN’s Music Collection vol.4**
   - Font name:  
 Fantasy Regular
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Tiffany Medium
+  - Copyright:  
+ITC
 
 ---
 
@@ -34,7 +38,7 @@ Bay Animation
   - Font name:  
 ＤＣ麗楷書W5  
 (DCLeiKaiSho-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -46,7 +50,7 @@ DynaFont
   - Font name:  
 ＤＦ太楷書体  
 (DFKaiSho-Bd)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -55,5 +59,5 @@ DynaFont
 **Retrospective 53 minutes**
   - Font name:  
 Arial Black
-  - Foundry:  
+  - Copyright:  
 Monotype
