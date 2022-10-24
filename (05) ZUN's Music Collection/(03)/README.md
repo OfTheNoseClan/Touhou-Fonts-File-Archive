@@ -8,8 +8,12 @@ ZUN’s Music Collection vol.3
 **ZUN’s Music Collection vol.3**
   - Font name:  
 Fantasy Regular
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Tiffany Medium
+  - Copyright:  
+ITC
 
 ---
 
@@ -20,7 +24,7 @@ Bay Animation
   - Font name:  
 ＤＦ超極太明朝体  
 (DFMincho-SU)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -29,8 +33,12 @@ DynaFont
 **Changeability of Strange Dream**
   - Font name:  
 Exotica Regular
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Peignot Demi
+  - Copyright:  
+Linotype
 
 ---
 
@@ -41,7 +49,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
