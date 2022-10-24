@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ麗雅宋W7  
 (DFLeiGaSo-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -23,7 +23,7 @@ DynaFont
   - Font name:  
 HG明朝E  
 (HGMinchoE)
-  - Foundry:  
+  - Copyright:  
 RICOH
 
 ---
@@ -32,8 +32,12 @@ RICOH
 **Double Spoier**
   - Font name:  
 Chaz Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Charlemagne Regular
+  - Copyright:  
+Adobe Type
 
 ---
 
@@ -43,7 +47,7 @@ Bay Animation
 **Shoot the Bullet Again!**
   - Font name:  
 Times New Roman Regular
-  - Foundry:  
+  - Copyright:  
 Monotype
 
 ---
@@ -55,7 +59,7 @@ Monotype
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
