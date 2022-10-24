@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ新篆体W5  
 (DFShinTen-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
@@ -24,8 +24,8 @@ Stretched vertically.
 *Eastern Flower Reflecting Mound*
   - Font name:  
 Architect 1 Regular
-  - Foundry:  
-Bay Animation
+  - Copyright:  
+Broderbund
   - Other notes:  
 Stretched vertically.
 
@@ -38,7 +38,7 @@ Stretched vertically.
   - Font name:  
 ＤＦ中楷書体  
 (DFKaiSho-Md)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Note that this text is *not* stretched vertically, unlike all else on this cover.
@@ -49,8 +49,12 @@ Note that this text is *not* stretched vertically, unlike all else on this cover
 **Phantasmagoria of Flower View**
   - Font name:  
 Techno Bold
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Tekton Regular
+  - Copyright:  
+Adobe
   - Other notes:  
 Stretched vertically.
 
@@ -61,8 +65,12 @@ Stretched vertically.
 **hantasma**
   - Font name:  
 Gregory Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Wedding Text Regular
+  - Copyright:  
+Bitstream
   - Other notes:  
 Stretched vertically. Presumably, the uncropped text would read “Phantasmagoria”.
 
@@ -72,8 +80,12 @@ Stretched vertically. Presumably, the uncropped text would read “Phantasmagori
 **9th Touhou Project**  
   - Font name:  
 Geo 112 Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Geometric 231 Roman
+  - Copyright:  
+Bitstream
   - Other notes:  
 Stretched vertically.
 
@@ -83,8 +95,12 @@ Stretched vertically.
 **ver 1.00**
   - Font name:  
 Asia Extended Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Anna
+  - Copyright:  
+ITC
   - Other notes:  
 Stretched vertically.
 
@@ -97,7 +113,7 @@ Stretched vertically.
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
