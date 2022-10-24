@@ -8,8 +8,12 @@ ZUN’s Music Collection vol.6
 **ZUN’s Music Collection vol.6**
   - Font name:  
 Barrett Wide Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Baker Signet BT Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -20,7 +24,7 @@ Bay Animation
   - Font name:  
 ＤＦ郭泰碑W4  
 (DFKakuTaiHi-W4)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -29,8 +33,12 @@ DynaFont
 **Trojan Green Asteroid**
   - Font name:  
 Array Wide Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Arrus BT Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -41,7 +49,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
