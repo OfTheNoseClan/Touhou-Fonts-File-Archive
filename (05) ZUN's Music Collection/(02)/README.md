@@ -11,7 +11,7 @@ ZUN’s Music Collection vol.2
   - Font name:  
 ＤＦ郭泰碑W4  
 (DFKakuTaiHi-W4)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -23,7 +23,7 @@ DynaFont
   - Font name:  
 ＤＦ隷書体  
 (DFLeiSho-SB)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Faux-bold has been applied.
@@ -35,5 +35,7 @@ Faux-bold has been applied.
 **ZUN’s Music Collection Vol.2**
   - Font name:  
 Marsett Regular
-  - Foundry:  
-Bay Animation
+  - Forger:  
+Broderbund
+  - Forgery of:  
+Unknown
