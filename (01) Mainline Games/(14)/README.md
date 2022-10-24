@@ -67,4 +67,6 @@ Di Narrow Normal
   - Forger:  
 Bay Animation
   - Forgery of:  
-Unknown
+Kaufmann Bold
+  - Copyright:  
+Bitstream
