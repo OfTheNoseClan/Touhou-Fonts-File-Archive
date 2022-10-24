@@ -25,7 +25,7 @@ Stretched vertically.
   - Font name:  
 Architect 1 Regular
   - Copyright:  
-Broderbund
+Unknown
   - Other notes:  
 Stretched vertically.
 
@@ -54,7 +54,7 @@ Bay Animation
   - Forgery of:  
 Tekton Regular
   - Copyright:  
-Adobe
+Adobe Type
   - Other notes:  
 Stretched vertically.
 
