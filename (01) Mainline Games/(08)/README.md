@@ -20,8 +20,10 @@ DynaFont
 **Imperishable Night**
   - Font name:  
 Bowfin Regular
-  - Copyright:  
+  - Forger:  
 Broderbund
+  - Forgery of:  
+Unknown
 
 ---
 
