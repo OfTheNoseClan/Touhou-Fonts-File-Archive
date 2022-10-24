@@ -13,7 +13,7 @@ ZUN’s Music Collection vol.5.5
   - Font name:  
 ＤＦ優雅宋W3  
 (DFYuGaSo-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -23,8 +23,12 @@ DynaFont
 **ZCDS-0012**
   - Font name:  
 Chaz Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Charlemagne Regular
+  - Copyright:  
+Adobe Type
 
 ---
 
@@ -39,7 +43,7 @@ Bay Animation
   - Font name:  
 ＤＦ中太丸ゴシック体  
 (DFMaruGothic-Bd)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -48,5 +52,5 @@ DynaFont
 **(C)opyright 2011 ZUN All right reserved**
   - Font name:  
 Franklin Gothic Medium
-  - Foundry:  
+  - Copyright:  
 American Type Founders
