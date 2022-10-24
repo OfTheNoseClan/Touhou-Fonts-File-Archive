@@ -11,7 +11,7 @@ Akyu’s Untouched Score vol.3
   - Font name:  
 ＤＣ麗楷書W5  
 (DCLeiKaiSho-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -23,7 +23,7 @@ DynaFont
   - Font name:  
 ＤＦ隷書体  
 (DFLeiSho-SB)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -32,8 +32,12 @@ DynaFont
 **Akyu’s Untouched Score vol.3**
   - Font name:  
 Bernhart Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Bernhard Modern Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -41,8 +45,12 @@ Bay Animation
 **3**
   - Font name:  
 Bernhart Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Bernhard Modern Roman
+  - Copyright:  
+Bitstream
   - Other notes:  
 Faux-oblique has been applied.
 
@@ -55,7 +63,7 @@ Faux-oblique has been applied.
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
@@ -69,5 +77,5 @@ Stretched vertically.
   - Font name:  
 ＤＦＰ宗楷書W7  
 (DFPSoKaiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
