@@ -11,7 +11,7 @@
   - Font name:  
 FOT-モード明朝B Std B  
 (FOT-ModeMinB Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Text was heavily edited.
@@ -22,8 +22,12 @@ Text was heavily edited.
 **Violet Detector**
   - Font name:  
 Opera Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+University Roman Regular
+  - Copyright:  
+ITC
   - Other notes:  
 Stretched horizontally.
 
@@ -34,8 +38,12 @@ Stretched horizontally.
 **Shooting Game for Windows 7/8/10**
   - Font name:  
 Fantasy Regular
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Tiffany Medium
+  - Copyright:  
+ITC
 
 ---
 
@@ -46,7 +54,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
