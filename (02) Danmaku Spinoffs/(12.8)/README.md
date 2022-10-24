@@ -15,7 +15,7 @@
   - Font name:  
 ＤＦ綜藝体W5  
 (DFSoGei-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -25,8 +25,12 @@ DynaFont
 **Shooting Game for Windows 7/Vista/XP/2000**
   - Font name:  
 Typist Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC American Typewriter Medium
+  - Copyright:  
+ITC
 
 ---
 
@@ -37,7 +41,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched horizontally.
