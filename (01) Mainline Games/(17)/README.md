@@ -8,8 +8,12 @@
 **17TH TOUHOU PROJECT**
   - Font name:  
 Indy Condensed Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Informal 011 Roman
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -20,7 +24,7 @@ Bay Animation
   - Font name:  
 FOT-ラグランパンチ Std UB  
 (FOT-RaglanPunch Std UB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -29,8 +33,12 @@ Fontworks
 **WILY BEAST AND WEAKEST CREATURE**
   - Font name:  
 Rockstone Regular
-  - Foundry:  
-Bay Animation
+  - Forger:  
+Broderbund
+  - Forgery of:  
+Publicity Gothic
+  - Copyright:  
+SoftMaker
 
 ---
 
@@ -38,8 +46,12 @@ Bay Animation
 **Shooting Game for Windows 7/8/10**
   - Font name:  
 Gothic 32 Extended Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+American Text Regular
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -50,7 +62,7 @@ Bay Animation
   - Font name:  
 FOT-万葉古印ラージ Std B  
 (FOT-ManyoKoinLarge Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Stretched horizontally.
