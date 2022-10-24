@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦＧ祥南行書体W5  
 (DFGSNGyoSho-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -23,7 +23,7 @@ DynaFont
   - Font name:  
 ＤＣ方隷書W3  
 (DCHoLeiSho-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -32,8 +32,12 @@ DynaFont
 **Mountain of Faith**
   - Font name:  
 Cordial Normal
-  - Foundry:  
-Bay Animation
+  - Forger:  
+MicroLogic
+  - Forgery of:  
+Goudy Old Style
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -44,8 +48,12 @@ Bay Animation
 **ver 1.00a**
   - Font name:  
 Balloon Normal
-  - Foundry:  
-Bay Animation
+  - Forger:  
+MicroLogic
+  - Forgery of:  
+VAG Rounded Light
+  - Copyright:  
+Linotype
 
 ---
 
@@ -56,7 +64,7 @@ Bay Animation
   - Font name:  
 ＤＦ唐風隷書体W7  
 (DFTFLeiSho-W7)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Stretched vertically.
