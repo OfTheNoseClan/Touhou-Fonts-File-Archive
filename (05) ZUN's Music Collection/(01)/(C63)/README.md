@@ -12,7 +12,7 @@ ZUN’s Music Collection vol.1
   - Font name:  
 ＤＦ金文体W3  
 (DFKinBun-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -21,10 +21,14 @@ DynaFont
 **Dolls in Pseudo Paradise**
   - Font name:  
 Calli 109 Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Calligraphic 421 Roman
+  - Copyright:  
+Bitstream
   - Other notes:  
-A “flag” warp effect was applied.
+Text was heavily edited.
 
 ---
 
@@ -32,5 +36,7 @@ A “flag” warp effect was applied.
 **ZUN’s Music Collection vol.1**
   - Font name:  
 Gantury Regular ttnorm
-  - Foundry:  
+  - Forger:  
 ImageLine
+  - Forgery of:  
+Unknown
