@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ行書体  
 (DFGyoSho-Lt)
-  - Foundry:  
+  - Copyright:  
 DynaFont
   - Other notes:  
 Faux-bold has been applied.
@@ -27,5 +27,5 @@ Faux-bold has been applied.
   - Font name:  
 ＭＳ 明朝  
 (MS Mincho)
-  - Foundry:  
+  - Copyright:  
 Microsoft
