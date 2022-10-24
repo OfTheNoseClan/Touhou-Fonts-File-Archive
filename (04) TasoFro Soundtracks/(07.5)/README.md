@@ -15,7 +15,7 @@
   - Font name:  
 HG高橋隷書体  
 (HGTakahashiReishotai)
-  - Foundry:  
+  - Copyright:  
 RICOH
   - Other notes:  
 Faux-bold has been applied.
@@ -27,7 +27,7 @@ Faux-bold has been applied.
 **Copyright 2005**
   - Font name:  
 LHF Charlotte
-  - Foundry:  
+  - Copyright:  
 Letterhead Fonts
   - Other notes:  
 Faux-bold has been applied.
