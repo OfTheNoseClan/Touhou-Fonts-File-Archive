@@ -13,7 +13,7 @@ ZUN’s Music Collection vol.9.5
   - Font name:  
 FOT-筑紫Q明朝L Std L  
 (FOT-TsukuQMinL Std L)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -23,8 +23,12 @@ Fontworks
 **ZCDS-0017**
   - Font name:  
 Chaz Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Charlemagne Regular
+  - Copyright:  
+Adobe Type
 
 ---
 
@@ -39,7 +43,7 @@ Bay Animation
   - Font name:  
 FOT-ロダンひまわり Pro DB  
 (FOT-RodinHimawari Pro DB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -48,5 +52,5 @@ Fontworks
 **(C)opyright 2021 ZUN All right reserved**
   - Font name:  
 Franklin Gothic Medium
-  - Foundry:  
+  - Copyright:  
 American Type Founders
