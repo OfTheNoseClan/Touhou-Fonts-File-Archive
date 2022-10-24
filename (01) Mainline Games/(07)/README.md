@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦＧ麗雅宋W9  
 (DFGLeiGaSo-W9)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -21,8 +21,10 @@ DynaFont
 Shooting Game of Ghastry Dream.**
   - Font name:  
 Gantury Regular ttnorm
-  - Foundry:  
+  - Forger:  
 ImageLine
+  - Forgery of:  
+Unknown
 
 ---
 
@@ -33,7 +35,7 @@ ImageLine
   - Font name:  
 ＤＦ新篆体W5  
 (DFShinTen-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -45,7 +47,7 @@ DynaFont
   - Font name:  
 ＤＣ麗楷書W5  
 (DCLeiKaiSho-W5)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -54,8 +56,10 @@ DynaFont
 **Perfect Cherry Blossom**
   - Font name:  
 Alex Regular ttnorm
-  - Foundry:  
+  - Forger:  
 ImageLine
+  - Forgery of:  
+Unknown
 
 ---
 
@@ -63,5 +67,9 @@ ImageLine
 **ver 1.00**  
   - Font name:  
 Opera Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+University Roman Regular
+  - Copyright:  
+ITC
