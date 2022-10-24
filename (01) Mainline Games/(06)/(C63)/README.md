@@ -9,7 +9,7 @@
 **Windows 98/ME/2000/XP DirectX8**
   - Font name:  
 Times New Roman Regular
-  - Foundry:  
+  - Copyright:  
 Monotype
 
 ---
@@ -21,7 +21,7 @@ Monotype
   - Font name:  
 ＤＦPOPコンW12  
 (DFPOPCorn-W12)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -33,7 +33,7 @@ DynaFont
   - Font name:  
 ＤＦクラフト童W3  
 (DFCraftDou-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -43,7 +43,7 @@ DynaFont
   - Font name:  
 ＤＦ金文体W3  
 (DFKinBun-W3)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -52,7 +52,7 @@ DynaFont
 **the Embodiment of Scarlet Devil.**
   - Font name:  
 Tiranti Solid Std Regular
-  - Foundry:  
+  - Copyright:  
 ITC
 
 ---
@@ -65,7 +65,7 @@ ITC
   - Font name:  
 ＤＦＧ麗雅宋W9  
 (DFGLeiGaSo-W9)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -75,5 +75,5 @@ DynaFont
 **Presented by Team Shanghai Alice.**
   - Font name:  
 Cataneo BT Regular
-  - Foundry:  
+  - Copyright:  
 Bitstream
