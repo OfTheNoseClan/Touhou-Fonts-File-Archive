@@ -14,7 +14,7 @@
   - Font name:  
 A-OTF 解ミン 月 Std H  
 (A-OTF Kaimin Tsuki Std H)
-  - Foundry:  
+  - Copyright:  
 Morisawa
   - Other notes:  
 Stretched vertically.
