@@ -11,7 +11,7 @@
   - Font name:  
 HG正楷書体-PRO  
 (HGSeikaiShotaiPRO)
-  - Foundry:  
+  - Copyright:  
 RICOH
   - Other notes:  
 Faux-bold has been applied.
@@ -25,5 +25,5 @@ Faux-bold has been applied.
   - Font name:  
 ＤＦ行書体  
 (DFGyoSho-Lt)
-  - Foundry:  
+  - Copyright:  
 DynaFont
