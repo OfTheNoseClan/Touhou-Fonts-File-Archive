@@ -9,8 +9,12 @@
 **Shooting Game for Windows 8/10**
   - Font name:  
 Pegasus Regular
-  - Foundry:  
-Bay Animation
+  - Forger:  
+Unknown
+  - Forgery of:  
+ITC Benguiat Book
+  - Copyright:  
+ITC
 
 ---
 
@@ -21,7 +25,7 @@ Bay Animation
   - Font name:  
 FOT-モード明朝B Std B  
 (FOT-ModeMinB Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -30,8 +34,12 @@ Fontworks
 **Unconnected Marketeers**
   - Font name:  
 Geo 957 Wide Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Square Slabserif 711 Medium
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -42,7 +50,7 @@ Bay Animation
   - Font name:  
 FOT-万葉古印ラージ Std B  
 (FOT-ManyoKoinLarge Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Stretched horizontally.
