@@ -11,7 +11,7 @@
   - Font name:  
 ＤＦ超極太明朝体  
 (DFMincho-SU)
-  - Foundry:  
+  - Copyright:  
 DynaFont
 
 ---
@@ -20,8 +20,12 @@ DynaFont
 **Shoot the Bullet**
   - Font name:  
 Chaz Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Charlemagne Regular
+  - Copyright:  
+Adobe Type
 
 ---
 
@@ -34,8 +38,12 @@ Bay Animation
 **ver 1.02a**
   - Font name:  
 Atilla Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+ITC Avant Garde Gothic Book
+  - Copyright:  
+ITC
 
 ---
 
@@ -46,5 +54,5 @@ Bay Animation
   - Font name:  
 ＤＦ隷書体  
 (DFLeiSho-SB)
-  - Foundry:  
+  - Copyright:  
 DynaFont
