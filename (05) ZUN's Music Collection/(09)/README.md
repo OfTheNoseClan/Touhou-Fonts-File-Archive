@@ -8,8 +8,12 @@ ZUN’s Music Collection vol.9
 **DATELESS BAR**
   - Font name:  
 Tangiers Bold
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Algerian Regular
+  - Copyright:  
+ITC
 
 ---
 
@@ -20,7 +24,7 @@ Bay Animation
   - Font name:  
 FOT-ロダン ProN EB  
 (FOT-Rodin ProN EB)
-  - Foundry:  
+  - Copyright:  
 Fontworks
 
 ---
@@ -29,8 +33,12 @@ Fontworks
 **OLD ADAM**
   - Font name:  
 Tangiers Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Algerian Regular
+  - Copyright:  
+ITC
 
 ---
 
@@ -38,8 +46,12 @@ Bay Animation
 **ZUN’s Music Collection vol.9**
   - Font name:  
 Carmine Normal
-  - Foundry:  
+  - Forger:  
 Bay Animation
+  - Forgery of:  
+Carmina BT Medium
+  - Copyright:  
+Bitstream
 
 ---
 
@@ -50,7 +62,7 @@ Bay Animation
   - Font name:  
 FOT-万葉古印ラージ Std B  
 (FOT-ManyoKoinLarge Std B)
-  - Foundry:  
+  - Copyright:  
 Fontworks
   - Other notes:  
 Stretched horizontally.
