@@ -3,7 +3,7 @@ A file archive for an ongoing project cataloguing every font used in CD jewel ca
 
 The list of titles catalogued in this project are:
 
-- **Mainline series games** (1st–18th as of writing)
+- **Mainline series games** (1st–19th as of writing)
 - **Danmaku spinoff games** (9.5th–18.5th as of writing)
 - **黄昏フロンティア-developed spinoff games** (7.5th–17.5th as of writing)
 - **Soundtrack albums for 黄昏フロンティア-developed spinoff games** (7.5th–17.5th as of writing)
