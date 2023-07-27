@@ -5,6 +5,19 @@
 ---
 
 01\.  
+**19th Touhou Project**
+  - Font name:  
+Keira Normal
+  - Forger:  
+Bay Animation
+  - Forgery of:  
+ITC Korinna Std Regular  
+- Copyright:  
+ITC
+
+---
+
+02\.  
 **東方獣王園**
   - Translation:  
 *Eastern Beast King Garden*
@@ -18,7 +31,7 @@ Text was heavily edited.
 
 ---
 
-02\.  
+03\.  
 **Unfinished Dream of All Living Ghost.**
   - Font name:  
 Menace Regular
@@ -29,7 +42,7 @@ Unknown
 
 ---
 
-03\.  
+04\.  
 **上海■アリス幻樂団**
   - Translation:  
 *Shanghai Alice Fantasy Band*
