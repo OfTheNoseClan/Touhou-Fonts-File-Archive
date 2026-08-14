@@ -3,11 +3,11 @@ A file archive for an ongoing project cataloguing every font used in CD jewel ca
 
 The list of titles catalogued in this project are:
 
-- **Mainline series games** (1st–19th as of writing)
+- **Mainline series games** (1st–20th as of writing)
 - **Danmaku spinoff games** (9.5th–18.5th as of writing)
 - **黄昏フロンティア-developed spinoff games** (7.5th–17.5th as of writing)
 - **Soundtrack albums for 黄昏フロンティア-developed spinoff games** (7.5th–17.5th as of writing)
-- **Ongoing concept album series _“ZUN's Music Collection”_** (vols. 1–10 as of writing)
+- **Ongoing concept album series _“ZUN's Music Collection”_** (vols. 1–11 as of writing)
 - **Remastered soundtrack albums for PC–98-platform mainline games _“Akyu's Untouched Score”_** (vols. 1–5)
 
 Anything outside of this list—such as spinoff literature, bonus enclosure CDs, related series like the _西方Project_, _トルテルマジック_, etc.—is not planned to be included.
