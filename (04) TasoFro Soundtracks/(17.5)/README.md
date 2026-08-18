@@ -8,5 +8,3 @@
 **ORIGINAL SOUND TRACK**
   - Font name:  
 Unknown
-  - Copyright:  
-Unknown
