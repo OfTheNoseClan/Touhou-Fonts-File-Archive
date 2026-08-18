@@ -1,5 +1,5 @@
 17.5th 東方Project soundtrack album  
-**【完全憑依ディスコグラフィ　東方憑依華 ORIGINAL SOUND TRACK】**
+**【強欲な獣のムジカ　東方剛欲異聞 ORIGINAL SOUND TRACK】**
 
 ---  
 ---
