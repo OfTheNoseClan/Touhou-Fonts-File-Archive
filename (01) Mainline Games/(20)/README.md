@@ -21,7 +21,7 @@ Text was heavily edited.
 02\.  
 **FOSSILIZED WONDERS**
   - Font name:  
-Tangiers Bold
+Tangiers Normal
   - Forger:  
 Bay Animation
   - Forgery of:  
