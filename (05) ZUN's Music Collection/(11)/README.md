@@ -10,7 +10,7 @@ ZUN’s Music Collection vol.11
 *Primate Spirit Aramashi-kyou*
   - Font name:  
 FOT-筑紫Cオールド明朝 Pr6N R  
-(FOT-TsukuCOldMinPr6N-R)
+(FOT-TsukuCOldMin Pr6N R)
   - Copyright:  
 Fontworks
 
