@@ -4,7 +4,7 @@
 ---  
 ---
 
-02\.  
+01\.  
 **東方獣王園**
   - Translation:  
 *Eastern Capital Atop Magnificence*
@@ -18,7 +18,7 @@ Text was heavily edited.
 
 ---
 
-01\.  
+02\.  
 **FOSSILIZED WONDERS**
   - Font name:  
 Tangiers Bold
