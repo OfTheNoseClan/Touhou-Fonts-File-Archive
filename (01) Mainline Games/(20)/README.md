@@ -5,7 +5,7 @@
 ---
 
 01\.  
-**東方獣王園**
+**東方錦上京**
   - Translation:  
 *Eastern Capital Atop Magnificence*
   - Font name:  
