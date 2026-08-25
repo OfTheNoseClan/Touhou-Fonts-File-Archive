@@ -49,8 +49,8 @@ ITC
   - Translation:  
 *Shanghai Alice Fantasy Band*
   - Font name:  
-FOT-万葉古印ラージ Std B  
-(FOT-ManyoKoinLarge Std B)
+FOT-コミックミステリ Std DB  
+(FOT-ComicMystery Std DB)
   - Copyright:  
 Fontworks
   - Other notes:  
