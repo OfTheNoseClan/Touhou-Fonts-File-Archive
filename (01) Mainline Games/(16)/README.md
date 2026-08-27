@@ -40,8 +40,6 @@ FOT-あられ Std DB
 (FOT-Aralet Std DB)
   - Copyright:  
 Fontworks
-  - Other notes:  
-Vectorized and edited.
 
 ---
 
