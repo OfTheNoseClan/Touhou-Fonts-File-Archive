@@ -26,8 +26,6 @@ FOT-ラグランパンチ Std UB
 (FOT-RaglanPunch Std UB)
   - Copyright:  
 Fontworks
-  - Other notes:  
-Vectorized and edited.
 
 ---
 
