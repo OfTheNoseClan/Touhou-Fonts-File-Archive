@@ -67,4 +67,4 @@ Linotype
   - Copyright:  
 DynaFont
   - Other notes:  
-Stretched horizontally.
+Stretched vertically.
