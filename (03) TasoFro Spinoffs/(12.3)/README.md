@@ -26,8 +26,6 @@ A-OTF 光朝 Std Heavy
 (A-OTF Kocho Std Heavy)
   - Copyright:  
 Morisawa
-  - Other notes:  
-Text was heavily edited.
 
 ---
 
