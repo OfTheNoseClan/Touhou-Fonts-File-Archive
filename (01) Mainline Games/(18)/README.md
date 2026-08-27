@@ -27,8 +27,6 @@ FOT-モード明朝B Std B
 (FOT-ModeMinB Std B)
   - Copyright:  
 Fontworks
-  - Other notes:  
-Vectorized and edited.
 
 ---
 
