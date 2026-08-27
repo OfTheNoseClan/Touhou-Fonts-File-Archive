@@ -14,4 +14,4 @@ Anything outside of this list—such as spinoff literature, bonus enclosure CDs,
 
 This project is a work in progress; as such, files in this repository are subject to change often.
 
-For legal reasons, the font files themselves are not included in this archive.
+For legal reasons, the font files themselves are not included in this archive. If you'd like access to them, [send me an ask on my Tumblr](https://www.tumblr.com/new/ask/ofthenoseclan).
