@@ -13,6 +13,8 @@ FOT-パルレトロン Std B
 (FOT-PalRetron Std B)
   - Copyright:  
 Fontworks
+  - Other notes:  
+Vectorized and edited.
 
 ---
 
