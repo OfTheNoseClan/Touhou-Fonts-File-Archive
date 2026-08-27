@@ -13,8 +13,6 @@ FOT-マティス Pro B
 (FOT-Matisse Pro B)
   - Copyright:  
 Fontworks
-  - Other notes:  
-Text was heavily edited.
 
 ---
 
