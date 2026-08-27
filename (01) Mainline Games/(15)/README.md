@@ -13,8 +13,6 @@ FOT-キアロ Std B
 (FOT-Chiaro Std B)
   - Copyright:  
 Fontworks
-  - Other notes:  
-Vectorized and edited.
 
 ---
 
