@@ -42,8 +42,6 @@ Stretched vertically.
 (DFKaiSho-Md)
   - Copyright:  
 DynaFont
-  - Other notes:  
-Note that this text is *not* stretched vertically, unlike all else on this cover.
 
 ---
 
