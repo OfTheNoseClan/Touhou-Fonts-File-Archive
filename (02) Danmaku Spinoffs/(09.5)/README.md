@@ -33,7 +33,7 @@ Adobe Type
 **9.5th Touhou Project**  
 **Shooting Game for Windows XP/2000**  
 **She is a Traditional Demon**  
-**″Shameimaru Aya”.**  
+**Shameimaru Aya”.**  
 **Her note is Mysterious and Fantastic.**  
 **ver 1.02a**
   - Font name:  
@@ -48,6 +48,17 @@ ITC
 ---
 
 04\.  
+**“**
+  - Font name:  
+ＭＳ ゴシック  
+(MS Gothic)
+  - Copyright:  
+Microsoft
+  - Other notes:  
+Likely an unintentional use of the default OS font.
+---
+
+05\.  
 **(c)2005 上海アリス幻樂団**
   - Translation:  
 *Shanghai Alice Fantasy Band*
