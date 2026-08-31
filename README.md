@@ -18,5 +18,5 @@ For legal reasons, the font files themselves are not included in this archive. I
 
 ---
 
-Missing fonts: TH17.5 OST, ZMC11
+Missing fonts: TH17.5 OST, ZMC11  
 Unfinished SVGs: TH17.5 OST, ZMC11
