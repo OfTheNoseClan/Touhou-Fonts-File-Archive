@@ -10,7 +10,7 @@ The list of titles catalogued in this project are:
 - **Ongoing concept album series _“ZUN's Music Collection”_** (vols. 1–11 as of writing)
 - **Remastered soundtrack albums for PC–98-platform mainline games _“Akyu's Untouched Score”_** (vols. 1–5)
 
-Anything outside of this list—such as spinoff literature, bonus enclosure CDs, related series like the _Seihou Project_, etc.—is not planned to be included.
+Anything outside this list—spinoff literature, bonus enclosure CDs, related series like the _Seihou Project_, etc.—is not planned to be included.
 
 This project is a work in progress; as such, files in this repository are subject to change often.
 
