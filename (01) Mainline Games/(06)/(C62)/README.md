@@ -6,7 +6,7 @@
 ---
 
 01\.  
-**２１世紀の２０世紀延長型 弾幕シューティング**
+**２１世紀の２０世紀延長型  弾幕シューティング**
   - Translation:  
 *21st century evolution of a 20th century danmaku shooter*
   - Font name:  
@@ -22,8 +22,8 @@ DynaFont
   - Translation:  
 *Eastern Scarlet Devil Land*
   - Font name:  
-ＤＦクラフト童W3  
-(DFCraftDou-W3)
+ＤＦＧクラフト童W3  
+(DFGCraftDou-W3)
   - Copyright:  
 DynaFont
 
